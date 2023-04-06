@@ -1,0 +1,44 @@
+html, body, root, #app, #app>div, body > #root > div {
+  width: 100%!important;
+  min-width: 100%!important;
+  height: 100%!important;
+  min-height: 100%!important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: absolute !important;
+  /*background-color: #e1efad;*/
+}
+
+
+
+@font-face {
+  font-family: 'kocha';
+  src: local('kocha'), url(fonts/kocha.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'stamp';
+  src: local('stamp'), url(fonts/stamp.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'boogaloo';
+  src: local('boogaloo'), url(fonts/boogaloo.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'orbitron';
+  src: local('orbitron'), url(fonts/orbitron.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'proxima';
+  src: local('proxima'), url(fonts/proxima.otf) format('truetype');
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

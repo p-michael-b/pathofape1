@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78036809.css",
+    "main.js": "/static/js/main.70f4592e.js",
+    "static/js/787.9cd36241.chunk.js": "/static/js/787.9cd36241.chunk.js",
+    "static/media/jungle_hires.png": "/static/media/jungle_hires.9cf46afa34d8ba26df71.png",
+    "static/media/ape_whistle.gif": "/static/media/ape_whistle.edfd1de7873b0024c5af.gif",
+    "static/media/stamp.ttf": "/static/media/stamp.5354d52758997883ea98.ttf",
+    "static/media/kocha.otf": "/static/media/kocha.76f57b1ce7954fe21b89.otf",
+    "static/media/background_image.png": "/static/media/background_image.375a41074b9d62d1beb9.png",
+    "static/media/ape_logo.png": "/static/media/ape_logo.04ef0b8012883310dc31.png",
+    "static/media/audio_whistle.m4a": "/static/media/audio_whistle.7e47ae6e2a071feddb33.m4a",
+    "static/media/boogaloo.ttf": "/static/media/boogaloo.e47a6b3ddd37326d02a3.ttf",
+    "static/media/ape.svg": "/static/media/ape.58601d45aa766c71caf5495218c73663.svg",
+    "index.html": "/index.html",
+    "main.78036809.css.map": "/static/css/main.78036809.css.map",
+    "main.70f4592e.js.map": "/static/js/main.70f4592e.js.map",
+    "787.9cd36241.chunk.js.map": "/static/js/787.9cd36241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78036809.css",
+    "static/js/main.70f4592e.js"
+  ]
+}
